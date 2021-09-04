@@ -1,7 +1,7 @@
 {
-  "name": "react-hook-examples",
+  "name": "react-hook-practice",
   "version": "1.0.0",
-  "description": "React Hook Practice",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
